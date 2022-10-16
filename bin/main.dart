@@ -1,5 +1,5 @@
-import 'package:dart_solid_application/dependency_inversion%20(D.I.P)/gmail_services.dart';
-import 'package:dart_solid_application/dependency_inversion%20(D.I.P)/notification.dart';
+import 'package:dart_solid_application/dependency_inversion_DIP/gmail_services.dart';
+import 'package:dart_solid_application/dependency_inversion_DIP/notification.dart';
 
 void main(List<String> arguments) {
   ///application client///

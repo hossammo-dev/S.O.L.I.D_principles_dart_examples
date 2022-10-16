@@ -1,4 +1,4 @@
-import 'package:dart_solid_application/open-closed_principle%20(O.C.P)/employee.dart';
+import 'package:dart_solid_application/open-closed_principle%20(OCP)/employee.dart';
 
 class Manager extends Employee {
   Manager(String id, String name, double basicSalary)

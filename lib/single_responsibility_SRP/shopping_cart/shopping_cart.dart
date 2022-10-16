@@ -1,4 +1,4 @@
-import 'package:dart_solid_application/single_responsibility%20(S.R.P)/shopping_cart/stock.dart';
+import 'package:dart_solid_application/single_responsibility_SRP/shopping_cart/stock.dart';
 
 import 'item.dart';
 
